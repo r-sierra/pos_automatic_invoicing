@@ -2,7 +2,7 @@
 
 {
     'name': 'Point of Sale - Automatic Invoicing',
-    'version': '12.0.1.0.0',
+    'version': '12.0.1.1.0',
     'category': 'Sales/Point Of Sale',
     'sequence': 20,
     'summary': 'Automatically generate invoices from Point of Sale',
